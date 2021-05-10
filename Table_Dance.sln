@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Table_Dance", "Table_Dance.pyproj", "{4FFE7640-8BBE-4A49-AD8F-CE124CD5F103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFE7640-8BBE-4A49-AD8F-CE124CD5F103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFE7640-8BBE-4A49-AD8F-CE124CD5F103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1297FDD-168D-402D-A271-3279D66EA64A}
+	EndGlobalSection
+EndGlobal
