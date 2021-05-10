@@ -1,5 +1,5 @@
 # The_Table_Dance
-A little table dancing program in jupyter notebook
+A little table dancing program in python
 
 # Assumptions
 * I'm assuming that the values of the header is separated by commas and ends with a newline character
